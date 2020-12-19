@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter6\Penny or Nickle\bin\Debug\Penny or Nickle.exe.config
+C:\School\CSC-139\Chapter6\Penny or Nickle\bin\Debug\Penny or Nickle.exe
+C:\School\CSC-139\Chapter6\Penny or Nickle\bin\Debug\Penny or Nickle.pdb
+C:\School\CSC-139\Chapter6\Penny or Nickle\bin\Debug\Penny or Nickle.xml
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny or Nickle.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny_or_Nickle.Form1.resources
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny_or_Nickle.Resources.resources
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny or Nickle.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny or Nickle.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny or Nickle.exe
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny or Nickle.xml
+C:\School\CSC-139\Chapter6\Penny or Nickle\obj\Debug\Penny or Nickle.pdb
